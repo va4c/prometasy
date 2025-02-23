@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prometasy
+- 👋 Hi, I’m @va4c
 - 👀 I’m interested in CyberSecurity, Development and Reverse Engineering
 - 🌱 I’m currently learning C, C++ and Assembly
-- 📫 Discord : prometasy
+- 📫 Discord : va4c
 - 😄 Pronouns: he/him
 
 <!---
